@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivacharan</h1>
+<h1 align="center">Hi 👋, I'm Shiva Charan</h1>
 
 
 - 🔭 I’m currently working on **Machine Learning Projects**
