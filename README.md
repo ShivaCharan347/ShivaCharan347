@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Machine learning and Deep Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Data Science**
 
