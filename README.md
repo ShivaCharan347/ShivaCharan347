@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shiva Charan</h1>
 
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Deep Learning Projects**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **GENAI**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **DS & ML**
 
 - 📫 How to reach me **shivacharan347@gmail.com**
 
